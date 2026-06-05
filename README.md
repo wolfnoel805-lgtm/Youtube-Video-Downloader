@@ -17,3 +17,17 @@ Stelle sicher, dass du Python installiert hast. Bevor du das Programm startest, 
 
 ```bash
 pip install yt-dlp customtkinter
+Installation & Benutzung
+Klicke oben rechts auf den grünen Code-Button und wähle Download ZIP.
+
+WICHTIG: Klicke mit rechts auf die heruntergeladene ZIP-Datei und wähle Alle extrahieren..., um den Ordner vollständig zu entpacken. (Das Programm läuft nicht direkt aus der ZIP-Datei!).
+
+Öffne den entpackten Ordner und mache einen Doppelklick auf die Datei Starten.bat.
+
+Das Programm öffnet sich direkt (ohne dass im Hintergrund eine schwarze CMD-Box zu sehen ist).
+
+Kopiere einen YouTube- oder Shorts-Link, klicke im Programm auf Einfügen und drücke auf DOWNLOAD.
+
+Wähle den gewünschten Speicherort aus – der Download startet sofort!
+
+made by elyxnoel
